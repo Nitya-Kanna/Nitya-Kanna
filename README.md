@@ -4,7 +4,7 @@ I'm **Nitya Kanna**, an AI Engineer & Backend Developer based in Malaysia.
 
 I like building fun and actual real-world AI applications that solve everyday problems. I've built AI across various industries such as fintech, healthcare, and manufacturing.
 
-## 🛠️ Main Tech Stack
+## 🛠️ Technical Projects
 
 I've built AI email trackers, RAG systems for technical documents, bill-splitting apps, and async backend services with race condition prevention and caching strategies.
 
