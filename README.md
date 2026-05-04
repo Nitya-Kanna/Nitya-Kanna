@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **Nitya Kanna**, an AI Engineer & Backend Developer based in Malaysia.
+I'm **Nitya Kanna**, an AI Engineer based in Malaysia.
 
 I like building fun and actual real-world AI applications that solve everyday problems. I've built AI across various industries such as fintech, healthcare, and manufacturing.
 
