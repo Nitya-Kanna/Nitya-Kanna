@@ -7,6 +7,10 @@ I like building fun and actual real-world AI applications that solve everyday pr
 ## Technical Projects
 
 I've built AI email trackers, RAG systems for technical documents, bill-splitting apps, and async backend services with race condition prevention and caching strategies.
+## 💼 Business Impact
+
+I don't just build AI systems—I work directly with clients to understand what they actually need. I spearhead AI engagements, translating business requirements into technical solutions and bridging the gap between tech teams and business stakeholders. Whether it's fintech, healthcare, or manufacturing, I ensure AI delivers real, measurable value.
+
 
 ## Fun Facts
 
