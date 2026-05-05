@@ -16,7 +16,7 @@ I don't just build AI systems, I work directly with clients to understand what t
 
 - 💡 If an idea pops into my head, chances are I'll build it and ship it
 - 🤖 Passionate about building AI that solves real problems
-- 📚 Currently exploring: Agentic AI systems and autonomous agents
+- 📚 Currently exploring: In depth Memory Management for AI systems
 - ☕ Powered by curiosity (and probably too much matcha)
 
 ## Let's Connect
