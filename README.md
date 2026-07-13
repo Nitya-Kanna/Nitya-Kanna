@@ -2,7 +2,7 @@
 
 I'm **Nitya Kanna**, an AI Engineer based in Malaysia.
 
-I like building fun and actual real-world AI applications that solve everyday problems. I've built AI across various industries such as fintech, healthcare, and manufacturing.
+Currently working deeply on memory engineering for AI. I do think it's the next big thing after context engineering! I like building fun and actual real-world AI applications that solve everyday problems. I've built AI across various industries such as fintech, healthcare, and manufacturing.
 
 ## Technical Projects
 
