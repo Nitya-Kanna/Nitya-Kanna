@@ -2,7 +2,7 @@
 
 I'm **Nitya Kanna**, an AI Engineer based in Malaysia.
 
-Currently working deeply on memory engineering for AI. I do think it's the next big thing after context engineering! I like building fun and actual real-world AI applications that solve everyday problems. I've built AI across various industries such as fintech, healthcare, and manufacturing.
+Currently working deeply on memory engineering for AI. I do think it's the next big thing after context engineering! I like building fun and actual real-world AI applications that solve everyday problems. I've built AI across various industries such as fintech, healthcare, and manufacturing. 
 
 ## Technical Projects
 
@@ -14,7 +14,7 @@ I don't just build AI systems, I work directly with clients to understand what t
 
 ## Fun Facts
 
-- 💡 If an idea pops into my head, chances are I'll build it and ship it
+- 💡 For the TNG Hackathon, my team and I built an AI Powered Bill Splitter! That feature is being implemented in RYT bank now too!
 - 🤖 Passionate about building AI that solves real problems
 - 📚 Currently exploring: In depth Memory Management for AI systems
 - ☕ Powered by curiosity (and probably too much matcha)
