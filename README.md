@@ -6,7 +6,8 @@ Currently working deeply on memory engineering for AI. I do think it's the next 
 
 ## Technical Projects
 
-I've built AI email trackers, RAG systems for technical documents, bill-splitting apps, and async backend services with race condition prevention and caching strategies.
+Working on an AML AI project now! Learning about AI memory engineering too. I've built RAG systems for technical documents, AI powered finance bill-splitting apps, and async backend services with race condition prevention and caching strategies.
+
 ## Business Impact
 
 I don't just build AI systems, I work directly with clients to understand what they actually need. I spearhead AI engagements, translating business requirements into technical solutions and bridging the gap between tech teams and business stakeholders. Whether it's fintech, healthcare, or manufacturing, I ensure AI delivers real, measurable value.
